@@ -45,8 +45,11 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
 Realiza un fork del repositorio.
 Crea una rama para tus cambios.
+
 Realiza tus modificaciones y haz commit.
+
 Envía un pull request con una descripción clara de tus cambios.
+
 Licencia
 Este proyecto está licenciado bajo la MIT License.
 
