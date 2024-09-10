@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noticias de Última Hora - Demon Slayer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Noticias de Última Hora - Demon Slayer</h1>
+        <p>¡Mantente al tanto de las últimas noticias del mundo de Demon Slayer!</p>
+    </header>
+
+    <!-- Navegación -->
+    <nav>
+        <ul>
+            <li><a href="#home">Inicio</a></li>
+            <li><a href="#noticias">Noticias</a></li>
+            <li><a href="#personajes">Personajes</a></li>
+            <li><a href="#episodios">Episodios</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <!-- Sección de Inicio -->
+        <section id="home">
+            <h2>Bienvenido a Demon Slayer</h2>
+            <p>Descubre todo lo relacionado con tu anime favorito: Demon Slayer. Aquí encontrarás las últimas noticias, detalles sobre personajes, episodios recientes, y más.</p>
+            <img src="images/Banner Demon Slayer.png" alt="Demon Slayer Banner" class="banner">
+        </section>
+
+        <!-- Sección de Noticias -->
+        <section id="noticias">
+            <h2>Últimas Noticias</h2>
+            <div id="news">
+                <!-- Noticias se cargarán aquí -->
+            </div>
+        </section>
+
+        <!-- Sección de Personajes -->
+        <section id="personajes">
+            <h2>Personajes Principales</h2>
+            <div class="characters">
+                <div class="character">
+                    <img src="https://i.pinimg.com/736x/e8/1c/25/e81c2505b4f15e4ef5afa2ce15cbd2c9.jpg" alt="Tanjiro">
+                    <h3>Tanjiro Kamado</h3>
+                    <p>Tanjiro es el protagonista de la historia, un joven decidido a salvar a su hermana Nezuko y vengar a su familia.</p>
+                </div>
+                <div class="character">
+                    <img src="https://i.pinimg.com/736x/fa/3b/1f/fa3b1f823704ae25adbba310e7bc97cf.jpg" alt="Nezuko">
+                    <h3>Nezuko Kamado</h3>
+                    <p>Nezuko es la hermana menor de Tanjiro, convertida en demonio, pero con un fuerte lazo humano que la mantiene al lado de su hermano.</p>
+                </div>
+                <div class="character">
+                    <img src="https://i.pinimg.com/736x/47/a8/dd/47a8ddd9fcda33f53860d82526b16b5a.jpg" alt="Zenitsu">
+                    <h3>Zenitsu Agatsuma</h3>
+                    <p>Zenitsu es un cazador de demonios que, a pesar de su cobardía, tiene un increíble poder oculto cuando está inconsciente.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sección de Episodios -->
+        <section id="episodios">
+            <h2>Episodios Recientes</h2>
+            <div class="episodes">
+                <article class="episode">
+                    <h3>Episodio 1: Cruce del Destino</h3>
+                    <p>Tanjiro regresa a casa solo para encontrar a su familia masacrada por un demonio, con Nezuko como única sobreviviente.</p>
+                </article>
+                <article class="episode">
+                    <h3>Episodio 2: La Promesa de Nezuko</h3>
+                    <p>Tanjiro jura proteger a su hermana mientras busca una cura para revertir su transformación en demonio.</p>
+                </article>
+                <article class="episode">
+                    <h3>Episodio 3: Primera Misión</h3>
+                    <p>Tanjiro se une a los cazadores de demonios y recibe su primera misión oficial: eliminar a un demonio que aterroriza un pueblo.</p>
+                </article>
+            </div>
+        </section>
+
+        <!-- Sección de Contacto -->
+        <section id="contacto">
+            <h2>Contáctanos</h2>
+            <form id="contact-form">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Mensaje:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit">Enviar</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Noticias Demon Slayer. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="JS.js"></script>
+</body>
+</html>
