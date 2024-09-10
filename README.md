@@ -27,18 +27,18 @@ Abre el archivo index.html en tu navegador para ver la página en acción.
 Uso
 La página incluye las siguientes secciones:
 
-Inicio: Presenta un banner con información general sobre el sitio.
-Noticias: Muestra las últimas noticias sobre Demon Slayer con un diseño de tarjetas.
-Personajes: Una lista de personajes importantes de la serie, con imágenes y descripciones. Las tarjetas tienen un efecto de brillo rojo cuando se pasa el cursor sobre ellas.
-Episodios: Información sobre episodios recientes de la serie.
-Contacto: Un formulario para que los usuarios puedan ponerse en contacto.
-Tecnologías Utilizadas
-HTML: Para la estructura de la página.
-CSS: Para el diseño y los estilos visuales.
-JavaScript: Para la interactividad y la carga dinámica de contenido.
-Efectos y Estilos
-Las tarjetas de noticias y personajes tienen un efecto de ampliación y brillo al pasar el cursor sobre ellas.
-El banner y las tarjetas tienen sombras y transiciones suaves para una mejor experiencia visual.
+Inicio: Presenta un banner con información general sobre el sitio. <br> 
+Noticias: Muestra las últimas noticias sobre Demon Slayer con un diseño de tarjetas.<br> 
+Personajes: Una lista de personajes importantes de la serie, con imágenes y descripciones. Las tarjetas tienen un efecto de brillo rojo cuando se pasa el cursor sobre ellas.<br> 
+Episodios: Información sobre episodios recientes de la serie.<br> 
+Contacto: Un formulario para que los usuarios puedan ponerse en contacto.<br> 
+Tecnologías Utilizadas<br> 
+HTML: Para la estructura de la página.<br> 
+CSS: Para el diseño y los estilos visuales.<br> 
+JavaScript: Para la interactividad y la carga dinámica de contenido.<br> 
+Efectos y Estilos<br> 
+Las tarjetas de noticias y personajes tienen un efecto de ampliación y brillo al pasar el cursor sobre ellas.<br> 
+El banner y las tarjetas tienen sombras y transiciones suaves para una mejor experiencia visual.<br> 
 
 **Contribuciones**
 Si deseas contribuir al proyecto, por favor sigue estos pasos:
@@ -53,7 +53,7 @@ Este proyecto está licenciado bajo la MIT License.
 **Contacto**
 Para cualquier pregunta o comentario, puedes contactar a:
 
-Nombre: Naximiliano A
+Nombre: Maximiliano A
 Correo electrónico: maxjx15@gmail.com
 GitHub: https://github.com/maxtwt15
 
