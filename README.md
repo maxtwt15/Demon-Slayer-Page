@@ -6,7 +6,7 @@ Este proyecto es una página web dedicada a presentar las últimas noticias sobr
 
 ## Enlace a la Página
 
-Puedes visitar la página web en el siguiente enlace: [Demon-Slayer-Page.github.io](https://Demon-Slayer-Page.github.io)
+Puedes visitar la página web en el siguiente enlace: [Demon-Slayer-Page.github.io]([https://Demon-Slayer-Page.github.io](https://maxtwt15.github.io/Demon-Slayer-Page.github.io/))
 
 ## Estructura del Proyecto
 
